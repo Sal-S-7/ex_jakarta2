@@ -1,4 +1,4 @@
-package com.example.exercise_jakarta2.Class;
+package com.example.exercise_jakarta2.model;
 
 public class Person {
     private String nom;

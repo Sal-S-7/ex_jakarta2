@@ -1,6 +1,6 @@
-package com.example.exercise_jakarta2.Servlet;
+package com.example.exercise_jakarta2.servlet;
 
-import com.example.exercise_jakarta2.Class.Person;
+import com.example.exercise_jakarta2.model.Person;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.*;
